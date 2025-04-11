@@ -1,4 +1,4 @@
-<h1 align=center>🌇 ETEC CIDADE TIRADENTES - QUIZ DE FILOSOFIA</h1>
+<h1 align=center>QUIZ DE FILOSOFIA</h1>
 
 <p align="center">
   <img src="etec.png" width="500">
